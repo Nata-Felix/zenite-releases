@@ -180,4 +180,4 @@ Este repositório guarda só os instaladores e as atualizações; o código-font
 instalado procura versões novas aqui e se atualiza sozinho. Veja o que mudou em cada versão em
 [Releases](https://github.com/Nata-Felix/zenite-releases/releases).
 
-Criado por [Natã Félix](https://www.linkedin.com/in/nata-felix/) · Tek Software.
+Criado por [Natã Félix](https://www.linkedin.com/in/nata-felix/).
